@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NehaIsrar
+- 👋 Hi, I’m Neha Israr
 
 
 <!---
